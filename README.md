@@ -1,8 +1,10 @@
-# JavaScript-Project
-Multiple Projects including:
+# JavaScript-Project👍
+![Screenshot 2023-06-20 224806](https://github.com/sudhanshusekhar56/JavaScript-Project/assets/67027188/5ff52ccb-ad06-424a-8368-80b59f52bf68)
+##Multiple Projects including:
 
-1. Calculating age in days
-2. Cat image generator
-3. Rock, Paper, Scissor Game
-4. Changing color buttons
-5. Blackjack Game
+* Calculating age in days
+* Cat image generator
+* Rock, Paper, Scissors Game
+* Changing color buttons
+* Blackjack Game
+
