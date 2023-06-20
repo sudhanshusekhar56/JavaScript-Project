@@ -1,5 +1,6 @@
 # JavaScript-Project👍
-![Screenshot 2023-06-20 224806](https://github.com/sudhanshusekhar56/JavaScript-Project/assets/67027188/5ff52ccb-ad06-424a-8368-80b59f52bf68)
+![Uploading Screenshot 2023-06-20 224806 (2).png…]()
+
 ##Multiple Projects including:
 
 * Calculating age in days
